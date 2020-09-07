@@ -1,0 +1,10 @@
+INSERT INTO city(name, description, population, recording_time) VALUES ('Tokyo', 'Tokyo is the capital and most populous city of Japan.', 13515271, current_timestamp);
+INSERT INTO city(name, description, population, recording_time) VALUES ('Delhi', 'Delhi is is a city and a union territory of India containing New Delhi, the capital of India.', 16753235, current_timestamp);
+INSERT INTO city(name, description, population, recording_time) VALUES ('Donji Miholjac', 'Mjesto gdje se okreće novac... :)', 9491, current_timestamp);
+INSERT INTO city(name, description, population, recording_time) VALUES ('Dhaka', 'Dhaka is the capital and the largest city of Bangladesh. It is the ninth-largest,[11] and the sixth-most densely populated city in the world.', 14399000, current_timestamp);
+INSERT INTO city(name, description, population, recording_time) VALUES ('Cairo', 'Cairo  is the capital of Egypt and the largest city in the Arab world.', 9500000, current_timestamp);
+INSERT INTO city(name, description, population, recording_time) VALUES ('Mexico City', 'Mexico City is the capital and largest city of Mexico and the most-populous city in North America.', 8918653, current_timestamp);
+INSERT INTO city(name, description, population, recording_time) VALUES ('Mumbai', 'Mumbai is the capital city of the Indian state of Maharashtr. It lies on the Konkan coast on the west coast of India and has a deep natural harbour.', 12478447, current_timestamp);
+INSERT INTO city(name, description, population, recording_time) VALUES ('Sao Paulo', 'São Paulo is a municipality in the Southeast Region of Brazil.', 12252023, current_timestamp);
+INSERT INTO city(name, description, population, recording_time) VALUES ('Guadalajara', 'Guadalajara is a metropolis in western Mexico and the capital of the state of Jalisco.', 1460148, current_timestamp);
+INSERT INTO city(name, description, population, recording_time) VALUES ('Santiago', 'Santiago also known as Santiago de Chile, is the capital and largest city of Chile as well as one of the largest cities in the Americas.', 236453, current_timestamp);
